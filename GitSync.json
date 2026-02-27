@@ -2,7 +2,9 @@
     "system_version": "6.999.1.361",
     "readme_addons": {
         "Integration": {},
-        "Mappings": {},
+        "Mappings": {
+            "RA_1P_Visual_Families_4, RA_1P_Visual_Families_3": "Adding a readme on"
+        },
         "Visual Family": {},
         "Playbook": {},
         "Connector": {},
