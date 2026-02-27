@@ -1,0 +1,110 @@
+[
+    {
+        "name": "projects/project/locations/location/instances/instance/environments/13",
+        "id": 0,
+        "system": false,
+        "displayName": "C_RA_1P",
+        "description": "C_RA_1P",
+        "contact": "C_RA_1P",
+        "contactEmails": "c@gmail.com",
+        "contactPhone": "1234567890",
+        "retentionDuration": 3,
+        "dynamicParameters": [
+            {
+                "value": "Dynamic_RA_1P_1",
+                "dynamicParameterId": 7,
+                "environmentId": 13
+            },
+            {
+                "value": "Dynamic_RA_1P_2",
+                "dynamicParameterId": 8,
+                "environmentId": 13
+            }
+        ],
+        "aliasesJson": "[]",
+        "dataAccessScopesJson": "[]",
+        "instanceUri": "",
+        "weight": 1
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/environments/12",
+        "id": 0,
+        "system": false,
+        "displayName": "B_RA_1P",
+        "description": "B_RA_1P",
+        "contact": "B_RA_1P",
+        "contactEmails": "b@gmail.com",
+        "contactPhone": "1234567890",
+        "retentionDuration": 3,
+        "dynamicParameters": [
+            {
+                "value": "Dynamic_RA_1P_1",
+                "dynamicParameterId": 7,
+                "environmentId": 12
+            },
+            {
+                "value": "Dynamic_RA_1P_2",
+                "dynamicParameterId": 8,
+                "environmentId": 12
+            }
+        ],
+        "aliasesJson": "[]",
+        "dataAccessScopesJson": "[]",
+        "instanceUri": "",
+        "weight": 1
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/environments/11",
+        "id": 0,
+        "system": false,
+        "displayName": "A_RA_1P",
+        "description": "A_RA_1P",
+        "contact": "A_RA_1P",
+        "contactEmails": "a@gmail.com",
+        "contactPhone": "1234567890",
+        "retentionDuration": 3,
+        "dynamicParameters": [
+            {
+                "value": "Dynamic_RA_1P_1",
+                "dynamicParameterId": 7,
+                "environmentId": 11
+            },
+            {
+                "value": "Dynamic_RA_1P_2",
+                "dynamicParameterId": 8,
+                "environmentId": 11
+            }
+        ],
+        "aliasesJson": "[]",
+        "dataAccessScopesJson": "[]",
+        "instanceUri": "",
+        "weight": 1
+    },
+    {
+        "name": "projects/project/locations/location/instances/instance/environments/1",
+        "id": 0,
+        "system": true,
+        "displayName": "Default Environment",
+        "description": "Default Environment",
+        "contact": "N/A",
+        "contactEmails": "example@example.com",
+        "contactPhone": "0000000000",
+        "retentionDuration": 3,
+        "dynamicParameters": [
+            {
+                "value": "Dynamic_RA_1P_1",
+                "dynamicParameterId": 7,
+                "environmentId": 1
+            },
+            {
+                "value": "Dynamic_RA_1P_2",
+                "dynamicParameterId": 8,
+                "environmentId": 1
+            }
+        ],
+        "aliasesJson": "[]",
+        "dataAccessScopesJson": "[]",
+        "instanceUri": "",
+        "weight": 1
+    }
+]
