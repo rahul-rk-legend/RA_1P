@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "name": "projects/project/locations/location/instances/instance/dynamicParameters/8",
+            "id": 8,
+            "displayName": "Dynamic_RA_1P_2",
+            "parameterType": "LIST",
+            "defaultValue": "Dynamic_RA_1P_2",
+            "optionalValuesJson": "[\"Dynamic_RA_1P_2\",\"Dynamic_RA_1P_1\"]"
+        },
+        {
+            "name": "projects/project/locations/location/instances/instance/dynamicParameters/7",
+            "id": 7,
+            "displayName": "Dynamic_RA_1P_1",
+            "parameterType": "STRING",
+            "defaultValue": "Dynamic_RA_1P_1",
+            "optionalValuesJson": "[]"
+        }
+    ],
+    "dynamicParameters": [
+        {
+            "name": "projects/project/locations/location/instances/instance/dynamicParameters/8",
+            "id": 8,
+            "displayName": "Dynamic_RA_1P_2",
+            "parameterType": "LIST",
+            "defaultValue": "Dynamic_RA_1P_2",
+            "optionalValuesJson": "[\"Dynamic_RA_1P_2\",\"Dynamic_RA_1P_1\"]"
+        },
+        {
+            "name": "projects/project/locations/location/instances/instance/dynamicParameters/7",
+            "id": 7,
+            "displayName": "Dynamic_RA_1P_1",
+            "parameterType": "STRING",
+            "defaultValue": "Dynamic_RA_1P_1",
+            "optionalValuesJson": "[]"
+        }
+    ],
+    "totalSize": 2
+}
