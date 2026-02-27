@@ -1,0 +1,49 @@
+{
+    "items": [
+        {
+            "id": 6,
+            "name": "projects/project/locations/location/instances/instance/customLists/6",
+            "category": "Domain",
+            "entityIdentifier": "RA_1P_Custom_List_1",
+            "environments": "[\"C_RA_1P\",\"A_RA_1P\"]"
+        },
+        {
+            "id": 3,
+            "name": "projects/project/locations/location/instances/instance/customLists/3",
+            "category": "URL",
+            "entityIdentifier": "RA_1P_Custom_List_3",
+            "environments": "[\"*\"]"
+        },
+        {
+            "id": 2,
+            "name": "projects/project/locations/location/instances/instance/customLists/2",
+            "category": "Hostname",
+            "entityIdentifier": "RA_1P_Custom_List_2",
+            "environments": "[\"Default Environment\",\"C_RA_1P\",\"A_RA_1P\"]"
+        }
+    ],
+    "customLists": [
+        {
+            "id": 6,
+            "name": "projects/project/locations/location/instances/instance/customLists/6",
+            "category": "Domain",
+            "entityIdentifier": "RA_1P_Custom_List_1",
+            "environments": "[\"C_RA_1P\",\"A_RA_1P\"]"
+        },
+        {
+            "id": 3,
+            "name": "projects/project/locations/location/instances/instance/customLists/3",
+            "category": "URL",
+            "entityIdentifier": "RA_1P_Custom_List_3",
+            "environments": "[\"*\"]"
+        },
+        {
+            "id": 2,
+            "name": "projects/project/locations/location/instances/instance/customLists/2",
+            "category": "Hostname",
+            "entityIdentifier": "RA_1P_Custom_List_2",
+            "environments": "[\"Default Environment\",\"C_RA_1P\",\"A_RA_1P\"]"
+        }
+    ],
+    "totalSize": 3
+}
